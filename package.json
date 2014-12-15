@@ -1,0 +1,10 @@
+{
+ "name": "docker-node-test",
+ "private": true,
+ "version": "0.0.1",
+ "description": "Node.js test app on Ubuntu using docker",
+ "author": "Simon Farrell <simon@simonf.net>",
+ "dependencies": {
+    "express": "*"
+  }
+}
